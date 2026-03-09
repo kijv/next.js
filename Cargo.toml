@@ -414,7 +414,7 @@ lzzzz = "2.0.0"
 markdown = "1.0.0-alpha.18"
 memchr = "2.7.4"
 mime = "0.3.16"
-napi = { version = "2", default-features = false, features = [
+napi = { version = "3", default-features = false, features = [
   "napi3",
   "serde-json",
   "tokio_rt",
